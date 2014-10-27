@@ -1,0 +1,5 @@
+/* @option user-selected navigation menu alignment setting */
+
+#mainNav ul ul li {
+	text-align: left;
+}

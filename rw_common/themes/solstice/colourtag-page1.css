@@ -1,0 +1,598 @@
+/* @group Main Container */
+
+#parallaxContainer {
+	background-color: #FFFFFF;
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#FFFFFF), to(#FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-repeat: repeat-x;
+}
+
+/* @end */
+
+/* @group Icons and Headings */
+
+[class^="fa fa-"] {
+ 	color: #000000;
+}
+
+h1 {
+	color: #404040;
+}
+
+h2 {
+	color: #404040;
+}
+
+h3 {
+	color: #404040;
+}
+
+h4 {
+	color: #404040;
+}
+
+h5 {
+	color: #404040;
+}
+
+h6 {
+	color: #404040;
+}
+
+/* @end */
+
+/* @group Social Bar */
+
+#socialBar {
+	color: #EAEAEA;
+}
+
+#socialBar a {
+	color: #EAEAEA;
+}
+
+#socialBar a:visited {
+	color: #EAEAEA;
+}
+
+#socialBar a:hover {
+	color: #B3B3B3;
+}
+
+#socialBar a:active {
+	color: #B3B3B3;
+}
+
+#socialBar [class^="fa fa-"],
+#socialBar a [class^="fa fa-"] {
+	color: #FFFFFF;
+}
+
+#socialBar [class^="fa fa-"]:hover,
+#socialBar a:hover [class^="fa fa-"] {
+	color: #B3B3B3;
+}
+
+#socialBar [class^="fa fa-"]:active,
+#socialBar a:active [class^="fa fa-"] {
+	color: #B3B3B3;
+}
+
+#socialBarBackground {
+	background-color: #000000;
+	background-image: -moz-linear-gradient(top, #000000, #000000);
+	background-image: -ms-linear-gradient(top, #000000, #000000);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#000000), to(#000000));
+	background-image: -webkit-linear-gradient(top, #000000, #000000);
+	background-image: -o-linear-gradient(top, #000000, #000000);
+	background-image: linear-gradient(top, #000000, #000000);
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#000000', GradientType=0);
+}
+
+/* @end */
+
+/* @group Links */
+
+a {
+	color: #006699;
+} 
+
+a:visited {
+	color: #006699;
+}
+
+a:hover {
+	color: #993300;
+}
+
+a:active {
+	color: #993300;
+}
+
+/* Prevent Bootstrap buttons inheriting link colours */
+a:visited.btn {
+	color: #333;
+}
+
+a:visited.btn-primary,
+a:visited.btn-info,
+a:visited.btn-success,
+a:visited.btn-warning,
+a:visited.btn-danger,
+a:visited.btn-inverse {
+	color: #fff;
+}
+
+/* @end */
+
+/* @group Header */
+
+#headerFill {
+	background-color: #FFFFFF;
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#FFFFFF), to(#FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+#headerWrapper {
+	border-bottom: 1px solid #CDCDCD;
+}
+
+#siteTitle a {
+	color: #333333;
+}
+
+#siteTitle a:hover {
+	color: #4C4C4C;
+}
+
+#siteSlogan {
+	color: #4C4C4C;
+}
+
+/* @end */
+
+/* @group Upper Horizontal Container */
+
+#upperHorizontalBar {
+	background-color: #CDCDCD;
+	background-image: -moz-linear-gradient(top, #E7E7E7, #CDCDCD);
+	background-image: -ms-linear-gradient(top, #E7E7E7, #CDCDCD);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#E7E7E7), to(#CDCDCD));
+	background-image: -webkit-linear-gradient(top, #E7E7E7, #CDCDCD);
+	background-image: -o-linear-gradient(top, #E7E7E7, #CDCDCD);
+	background-image: linear-gradient(top, #E7E7E7, #CDCDCD);
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#E7E7E7', endColorstr='#CDCDCD', GradientType=0);
+	color: #4C4C4C;
+}
+
+#upperHorizontalBar h1,
+#upperHorizontalBar h2,
+#upperHorizontalBar h3,
+#upperHorizontalBar h4,
+#upperHorizontalBar h5,
+#upperHorizontalBar h6 {
+	color: #404040;
+}
+
+#upperHorizontalBar a {
+	color: #004080;
+}
+
+#upperHorizontalBar a:visited {
+	color: #004080;
+}
+
+#upperHorizontalBar a:hover {
+	color: #6699CC;
+}
+
+#upperHorizontalBar a:active {
+	color: #6699CC;
+}
+
+/* @end */
+
+/* @group Lower Horizontal Container */
+
+#lowerHorizontalBar {
+	background-color: #CDCDCD;
+	background-image: -moz-linear-gradient(top, #E7E7E7, #CDCDCD);
+	background-image: -ms-linear-gradient(top, #E7E7E7, #CDCDCD);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#E7E7E7), to(#CDCDCD));
+	background-image: -webkit-linear-gradient(top, #E7E7E7, #CDCDCD);
+	background-image: -o-linear-gradient(top, #E7E7E7, #CDCDCD);
+	background-image: linear-gradient(top, #E7E7E7, #CDCDCD);
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#E7E7E7', endColorstr='#CDCDCD', GradientType=0);
+	color: #4C4C4C;
+}
+
+#lowerHorizontalBar h1,
+#lowerHorizontalBar h2,
+#lowerHorizontalBar h3,
+#lowerHorizontalBar h4,
+#lowerHorizontalBar h5,
+#lowerHorizontalBar h6 {
+	color: #404040;
+}
+
+#lowerHorizontalBar a {
+	color: #004080;
+}
+
+#lowerHorizontalBar a:visited {
+	color: #004080;
+}
+
+#lowerHorizontalBar a:hover {
+	color: #9C9C9C;
+}
+
+#lowerHorizontalBar a:active {
+	color: #9C9C9C;
+}
+
+/* @end */
+
+/* @group Footer Container */
+
+#footerContainer {
+	background-color: #242424;
+	background-image: -moz-linear-gradient(top, #4C4C4C, #242424);
+	background-image: -ms-linear-gradient(top, #4C4C4C, #242424);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#4C4C4C), to(#242424));
+	background-image: -webkit-linear-gradient(top, #4C4C4C, #242424);
+	background-image: -o-linear-gradient(top, #4C4C4C, #242424);
+	background-image: linear-gradient(top, #4C4C4C, #242424);
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4C4C4C', endColorstr='#242424', GradientType=0);
+	color: #9A9A9A;
+}
+
+#footerContainer h1,
+#footerContainer h2,
+#footerContainer h3,
+#footerContainer h4,
+#footerContainer h5,
+#footerContainer h6 {
+	color: #9A9A9A;
+}
+
+#footerContainer a {
+	color: #0000FF;
+}
+
+#footerContainer a:visited {
+	color: #0000FF;
+}
+
+#footerContainer a:hover {
+	color: #0000FF;
+}
+
+#footerContainer a:active {
+	color: #0000FF;
+}
+
+/* @end */
+
+/* @group Banner */
+
+#bannerContentBox {
+	color: #EAEAEA;
+}
+
+#bannerBoxBackground {
+	background: #000000;
+}
+
+#bannerContentBox h1,
+#bannerContentBox h2,
+#bannerContentBox h3,
+#bannerContentBox h4,
+#bannerContentBox h5,
+#bannerContentBox h6 {
+	color: #EAEAEA;
+}
+
+#bannerContentBox a {
+	color: #0080FF;
+}
+
+#bannerContentBox a:visited {
+	color: #0080FF;
+}
+
+#bannerContentBox a:hover {
+	color: #0080FF;
+}
+
+#bannerContentBox a:active {
+	color: #0080FF;
+}
+
+/* @end */
+
+/* @group Content Container */
+
+#content {
+	color: #4C4C4C;
+}
+
+/* @end */
+
+/* @group Sidebar */
+
+aside {
+	border-left-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+}
+
+#sidebarTitle h3 {
+	color: #404040;
+}
+
+#sidebar {
+	color: #4C4C4C;
+}
+
+#sidebar a,
+#pluginSidebar a {
+	color: #006699;
+}
+
+#sidebar a:hover,
+#pluginSidebar a:hover {
+	color: #993300;
+}
+
+#sidebar a:active,
+#pluginSidebar a:active {
+	color: #993300;
+}
+
+#sidebar a:visited,
+#pluginSidebar a:visited {
+	color: #006699;
+}
+
+/* @end */
+
+/* @group Block / Split Navigation */
+
+#blockNav a,
+#splitNav a {
+	color: #4C4C4C;
+}
+
+#blockNav a:hover,
+#splitNav a:hover {
+	color: #404040;
+}
+
+#blockNav a:active,
+#splitNav a:active {
+	color: #404040;
+}
+
+#blockNav a.current,
+#splitNav a.current {
+	color: #404040;
+}
+
+/* @end */
+
+/* @group Drop-Down Menu */
+
+#mainNav li a {
+	color: #4C4C4C;
+}
+
+#mainNav li a:hover {
+	color: #000000;
+}
+
+#mainNav li a:active {
+	color: #000000;
+}
+
+#mainNav ul li.active,
+#mainNav ul li.active:hover,
+#mainNav ul li .current,
+#mainNav ul li .current:hover,
+#mainNav ul li .currentAncestor,
+#mainNav ul li .currentAncestor:hover {
+	color: #000000;
+}
+
+#mainNav ul ul,
+#mainNav ul ul ul,
+#mainNav ul ul ul ul,
+#mainNav ul ul ul ul ul {
+	background: #FFFFFF;
+	border: 1px solid #CCCCCC;
+}
+
+#mainNav ul ul li,
+#mainNav ul ul ul li {
+	border-top: 1px dotted #CCCCCC;
+}
+
+#mainNav ul ul li:first-child,
+#mainNav ul ul ul li:first-child {
+	border-top: none;
+}
+
+#mainNav ul ul ul {
+	border-top: 1px solid #CCCCCC;
+}
+
+#mainNav ul ul li a,
+#mainNav ul ul li a.nolink,
+#mainNav ul ul li a.nolink:hover {
+	color: #4C4C4C;
+}
+
+#mainNav ul ul li a:hover {
+	color: #000000;
+}
+
+#mainNav ul ul li a:active {
+	color: #A9A9A9;
+}
+
+#mainNav ul ul li .current,
+#mainNav ul ul li .current:hover,
+#mainNav ul ul li .currentAncestor,
+#mainNav ul ul li .currentAncestor:hover {
+	color: #000000;
+}
+
+#mainNav a i[class^="fa fa-"] {
+	color: #C1C1C1;
+	border: 1px solid #C1C1C1;
+}
+
+#mainNav li:hover i[class^="fa fa-"] {
+	color: #FFFFFF;
+	background: #B3B3B3;
+	border: 1px solid #B3B3B3;
+}
+
+#mainNav li.active a i[class^="fa fa-"],
+#mainNav a.current i[class^="fa fa-"],
+#mainNav a.currentAncestor i[class^="fa fa-"] {
+	color: #FFFFFF;
+	background: #B3B3B3;
+	border: 1px solid #B3B3B3;
+}
+
+/* @end */
+
+/* @group Smooth Scroller */
+
+#smoothScrollerNav li a {
+	color: #4C4C4C;
+}
+
+#smoothScrollerNav li a:hover {
+	color: #000000;
+}
+
+#smoothScrollerNav li a:active {
+	color: #000000;
+}
+
+#smoothScrollerNav ul li.active,
+#smoothScrollerNav ul li.active:hover {
+	color: #000000;
+}
+
+#smoothScrollerNav a i[class^="fa fa-"] {
+	color: #C1C1C1;
+	border: 1px solid #C1C1C1;
+}
+
+#smoothScrollerNav li:hover i[class^="fa fa-"] {
+	color: #FFFFFF;
+	background: #B3B3B3;
+	border: 1px solid #B3B3B3;
+}
+
+#smoothScrollerNav li.active a i[class^="fa fa-"] {
+	color: #FFFFFF;
+	background: #B3B3B3;
+	border: 1px solid #B3B3B3;
+}
+
+/* @end */
+
+/* @group Footer */
+
+#footer {
+	border-top: 1px dotted #CDCDCD;
+	color: #4C4C4C;
+	background-color: #FFFFFF;
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#FFFFFF), to(#FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+#footerText {
+	color: #4C4C4C;
+}
+
+#footer a,
+#myExtraContent10 a {
+	color: #006699;
+}
+
+#footer a:visited,
+#myExtraContent10 a:visited {
+	color: #006699;
+}
+
+#footer a:hover,
+#myExtraContent10 a:hover {
+	color: #993300;
+}
+
+#footer a:active,
+#myExtraContent10 a:active {
+	color: #993300;
+}
+
+/* @end */
+
+/* @group RAFT Navigation Colours */
+
+.raftNavWrapper {
+	border: 1px solid #CCCCCC;
+}
+
+.raftNavTitle h3 {
+	background: #CCCCCC;
+	color: #333333;
+}
+
+.raftNavWrapper .raftNavArrow [class^="fa fa-"] {
+	color: #333333;
+}
+
+.raftNav a,
+.raftNav a:visited {
+	background: #FFFFFF;
+	color: #666666;
+	border-top: 1px solid #CCCCCC;
+}
+
+.raftNav a:hover,
+.raftNav a:active,
+.raftNav a:focus {
+	background: #F3F3F3;
+	color: #666666;
+}
+
+.raftNav a.current {
+	color: #333333;
+	background: #E5E5E5;
+}
+
+/* @end */

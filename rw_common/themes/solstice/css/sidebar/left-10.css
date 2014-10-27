@@ -1,0 +1,11 @@
+/* @option user-selected sidebar width and position setting */
+
+#aside {
+	float: left;
+	width: 10%;
+}
+
+#contentContainer #content {
+	float: right;
+	width: 85%;
+}

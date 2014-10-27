@@ -1,0 +1,9 @@
+/* @option user-selected RAFT setting */
+
+@media screen and (max-width: 769px) {
+
+.raftNavWrapper {
+	display: none;
+}
+
+} /* End @media block */

@@ -1,0 +1,14 @@
+/* @option user-selected navigation layout setting */
+
+/* On screens less than this width, hide the drop-down menu and use toggle menu instead */
+@media screen and (max-width: 1000px){
+	#navContent,
+	#blockNav,
+	#footerNav {
+		display: none;
+	}
+	
+	.raftNavWrapper {
+		display: block;
+	}
+}

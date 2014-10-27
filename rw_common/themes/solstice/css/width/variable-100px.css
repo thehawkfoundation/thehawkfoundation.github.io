@@ -1,0 +1,7 @@
+/* @option user-selected theme width setting */
+
+.SolsticeWidth { 
+	width: auto;
+	margin-right: 100px !important;
+	margin-left: 100px !important;
+}

@@ -1,0 +1,12 @@
+/* @option user-selected RAFT setting */
+
+@media screen and (max-width: 569px) {
+
+#logoFixedLeft,
+#logoAbsoluteLeft,
+#logoFixedRight,
+#logoAbsoluteRight {
+	display: none;
+}
+
+} /* End @media block */

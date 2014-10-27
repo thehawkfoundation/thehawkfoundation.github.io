@@ -1,0 +1,9 @@
+/* @option user-selected RAFT setting */
+
+@media screen and (max-width: 569px) {
+
+#bannerOuter {
+	display: none;
+}
+
+} /* End @media block */

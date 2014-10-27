@@ -1,0 +1,9 @@
+/* @option user-selected logo position setting */
+
+#titleLogo {
+	display: block;
+}
+
+#headerContent h1 {
+	display: none;
+}

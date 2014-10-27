@@ -1,0 +1,10 @@
+/* @option user-selected navigation menu position setting */
+
+#mainNav,
+#megamenu,
+#navBlock,
+#splitNav,
+#blockNav,
+#shakeNavWrapper {
+	display: none !important;
+}

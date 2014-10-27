@@ -1,0 +1,5 @@
+/* @option user-selected navigation font face */
+
+.nav, #megamenu, #megamenuStack, #shakeNav, #splitNav, #blockNav {
+	font-family: Rockwell, Georgia, Serif;
+}

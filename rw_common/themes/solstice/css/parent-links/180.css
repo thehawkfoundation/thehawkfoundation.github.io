@@ -1,0 +1,6 @@
+/* @option user-selected parent page style setting */
+
+#mainNav li,
+#smoothScrollerNav li {
+	width: 180px;
+}

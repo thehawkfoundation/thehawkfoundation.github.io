@@ -1,0 +1,26 @@
+/* @option user selected header layout setting */
+
+#headerContent {
+	float: right;
+}
+
+#headerSearch {
+	text-align: left;
+}
+
+#siteTitle,
+#titleLogo,
+#siteSlogan {
+	text-align: right;
+}
+
+#navContent {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+/* This compensates for the right margin applied for the floating headerContent and lets the megemenu panels span upto the total page width */
+#megamenu ul ul {
+	margin-right: -100px !important;
+}

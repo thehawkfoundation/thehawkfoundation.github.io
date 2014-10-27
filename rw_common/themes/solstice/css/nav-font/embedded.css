@@ -1,0 +1,7 @@
+/* @option user-selected body font face */
+
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+.nav, #megamenu, #megamenuStack, #shakeNav, #splitNav, #blockNav {
+	font-family: 'Source Sans Pro', Arial, Helvetica, Geneva, sans-serif;
+}

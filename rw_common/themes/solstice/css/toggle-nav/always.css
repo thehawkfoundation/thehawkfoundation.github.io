@@ -1,0 +1,11 @@
+/* @option user-selected navigation layout setting */
+
+#navContent,
+#blockNav,
+#footerNav {
+	display: none;
+}
+	
+.raftNavWrapper {
+	display: block;
+}

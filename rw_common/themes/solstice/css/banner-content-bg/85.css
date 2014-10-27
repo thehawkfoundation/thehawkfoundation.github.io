@@ -1,0 +1,8 @@
+/* @option user selected content background setting */
+
+#bannerBoxBackground {
+	-moz-opacity: 0.85;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+	filter: alpha(opacity=85);
+	opacity: 0.85;
+}

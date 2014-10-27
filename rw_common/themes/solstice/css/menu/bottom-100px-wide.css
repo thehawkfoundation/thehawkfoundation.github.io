@@ -1,0 +1,16 @@
+/* @option user-selected #navigation menu position setting */
+
+/* Half drop-down width */
+#mainNav ul ul {
+	margin-left: -50px;
+}
+
+/* Drop-down width */
+#mainNav ul ul li {
+	width: 100px;
+}
+
+/* Drop-down width - 10px padding */
+#mainNav ul ul ul {
+	left: 90px;
+}

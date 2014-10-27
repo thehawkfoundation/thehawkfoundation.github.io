@@ -1,0 +1,5 @@
+/* @option user selected content font face setting */
+
+.nav, #megamenu, #megamenuStack, #shakeNav, #splitNav, #blockNav {
+	font-family: 'Arial Narrow', Arial, sans-serif;
+}

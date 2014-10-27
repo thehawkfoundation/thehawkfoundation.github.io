@@ -1,0 +1,5 @@
+/* @option user-selected title bar position setting */
+
+#headerWrapper {
+	position: absolute;
+}

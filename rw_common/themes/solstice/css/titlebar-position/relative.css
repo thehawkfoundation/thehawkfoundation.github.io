@@ -1,0 +1,13 @@
+/* @option user-selected title bar position setting */
+
+#headerWrapper {
+	position: relative;
+}
+
+#headingPadding {
+	margin: 30px 10px !important;
+}
+
+#headerFill {
+	opacity: 1.00 !important;
+}

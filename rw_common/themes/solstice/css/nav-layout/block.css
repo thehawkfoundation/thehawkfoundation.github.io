@@ -1,0 +1,21 @@
+/* @option user-selected navigation menu position setting */
+
+#navContent {
+	display: none;
+}
+
+#blockNav {
+	display: block;
+}
+
+#blockNav>ul>li>ul>li {
+   display: none;
+}
+
+#blockNav .currentListItem ul li {
+	display: block;
+}
+
+#blockNav .currentAncestorListItem ul li {
+	display: block;
+}

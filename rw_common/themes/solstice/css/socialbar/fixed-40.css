@@ -1,0 +1,25 @@
+/* @option user selected socialBar setting */
+
+#socialBar {
+	display: block;
+	position: relative;
+	padding: 10px 0;
+}
+
+@media screen and (min-width: 568px) {
+#socialBar {
+	display: block;
+	position: fixed;
+	padding: 0;
+}
+
+#socialBar,
+#socialBarBackground,
+#socialBarSpacer {
+	height: 40px;
+}
+
+#extraContainer1 {
+	line-height: 40px;
+}
+}
