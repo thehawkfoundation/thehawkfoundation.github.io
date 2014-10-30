@@ -1,4 +1,17 @@
 
+#stacks_in_134_page1 .stacks_left {
+	float:left;
+	width:49%;
+}
+
+#stacks_in_134_page1 .stacks_right {
+	float:right;
+	width:49%;
+}
+#stacks_in_104_page1 {
+	margin:  20px;
+}
+
 #stacks_in_259_page1 {
 	margin: 0px 20px 0px 20px;
 	padding: 0px 20px 0px 20px;
