@@ -67,7 +67,7 @@ $(document).ready(function() {
             var responsiveWidth = Math.round(image.attr('width')*0.65);
             responsiveWidth = responsiveWidth > 500 ? 500 : responsiveWidth;
             image.attr('data-fullsrc', source);
-            image.attr('src', 'files/thumb_16.jpg');
+            image.attr('src', 'files/thumb_16.png');
             responsiveEnhance(image,responsiveWidth);
         }
     
