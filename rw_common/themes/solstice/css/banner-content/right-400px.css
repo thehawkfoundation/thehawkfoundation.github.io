@@ -1,9 +1,0 @@
-/* @option User selected banner content box setting */
-
-#bannerContentBox {
-	position: absolute;
-	bottom: 0;
-	right: 0;
-	width: 400px;
-	display: block;
-}

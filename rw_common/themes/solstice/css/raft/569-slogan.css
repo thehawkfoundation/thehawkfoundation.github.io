@@ -1,9 +1,0 @@
-/* @option user-selected RAFT setting */
-
-@media screen and (max-width: 569px) {
-
-#siteSlogan {
-	display: none;
-}
-
-} /* End @media block */
