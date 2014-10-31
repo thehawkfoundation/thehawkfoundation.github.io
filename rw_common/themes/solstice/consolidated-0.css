@@ -38,4 +38,6 @@
   }
 }
 
-
+.thick-white-border {
+  border: 10px solid #ffffff;
+}
