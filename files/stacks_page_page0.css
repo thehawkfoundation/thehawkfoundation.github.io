@@ -160,3 +160,22 @@
 #stacks_in_224_page0 {
 	padding:  4px;
 }
+
+#stacks_in_239_page0 .stacks_left {
+	float:left;
+	width:49%;
+}
+
+#stacks_in_239_page0 .stacks_right {
+	float:right;
+	width:49%;
+}
+#stacks_in_246_page0 {
+	border: solid #000000;
+	border-width:  1px;
+}
+
+#stacks_in_253_page0 {
+	border: solid #000000;
+	border-width:  1px;
+}
