@@ -1,0 +1,49 @@
+
+#stacks_in_355_page18 {
+	padding:  7px;
+}
+
+#stacks_in_375_page18 .stacks_left {
+	float:left;
+	width:26%;
+}
+
+#stacks_in_375_page18 .stacks_right {
+	float:right;
+	width:72%;
+}
+#stacks_in_375_page18 {
+	padding: 0px 0px 20px 0px;
+}
+
+
+
+
+.img-responsive,
+.thumbnail > img,
+.thumbnail a > img,
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  margin:0 auto;
+}
+
+
+#stacks_in_379_page18 {
+	padding: 26px 0px 0px 0px;
+}
+
+#stacks_in_406_page18 .stacks_left {
+	float:left;
+	width:32%;
+}
+
+#stacks_in_406_page18 .stacks_right {
+	float:right;
+	width:32%;
+}
+
+#stacks_in_406_page18 .stacks_middle {
+	position:relative;
+	margin:0 auto;
+	width:32%;
+}
